@@ -1,4 +1,4 @@
-![Aerialite Labs](aerialitelabs.svg)
+![Aerialite Labs](aerialitelabs.png)
 
 We like vowels!
 
