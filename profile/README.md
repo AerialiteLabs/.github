@@ -1,3 +1,5 @@
+![Aerialite Labs](aerialitelabs.svg)
+
 We like vowels!
 
 ## Projects
