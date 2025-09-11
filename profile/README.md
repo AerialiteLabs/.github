@@ -1,6 +1,6 @@
 ![Aerialite Labs](aerialitelabs.png)
 
-We like vowels!
+"The Sky's the Limit"
 
 ## Projects
 \- Aurora - A tool similar to Ventoy for ChromeOS RMA shims and recovery images based on Alpine Linux<br>
