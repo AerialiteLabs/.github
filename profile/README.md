@@ -13,3 +13,4 @@
 \- [Synaptic](https://github.com/Synaptic-1234) - Admin<br>
 \- [EndlessVortex](https://github.com/MovByte) - Member<br>
 \- [Simon](https://github.com/simpansoftware) - Member<br>
+\- [qorsola](https://github.com/qorsola) - Member<br>
