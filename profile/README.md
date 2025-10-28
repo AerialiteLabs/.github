@@ -8,9 +8,9 @@
 
 ## Members
 \- [Sophia](https://github.com/soap-phia) - Owner<br>
+\- [EpicDevices](https://github.com/epic-devices) - Owner<br>
 \- [xmb9](https://github.com/xmb9) - Owner<br>
-\- [Mariah Carey](https://github.com/xXMariahScaryXx) - Admin<br>
 \- [Synaptic](https://github.com/Synaptic-1234) - Admin<br>
-\- [EndlessVortex](https://github.com/MovByte) - Member<br>
-\- [Simon](https://github.com/simpansoftware) - Member<br>
-\- [qorsola](https://github.com/qorsola) - Member<br>
+\- [Amplify](https://github.com/not-amplify) - Admin<br>
+\- [Mariah Carey](https://github.com/xXMariahScaryXx) - Member<br>
+\- [kxtzownsu](https://github.com/kxtzownsu) - Member<br>
